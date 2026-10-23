@@ -36,13 +36,13 @@ Practical 1 is not in the folder. Run notebooks with Jupyter or VS Code, executi
 ### Editing notes
 
 - Outputs are stored inside the `.ipynb` files. Prefer NotebookEdit or JSON-aware edits over text replacement.
-- The header cell (name, roll, class, title) is a markdown cell. Name, roll and class were replaced with the user's (Ajinkya Kishan Dhotre, 407I033, BEIT).
+- The header cell (name, roll, class, title) is a markdown cell. Name, roll and class were replaced with the user's (Ajinkya Kishan Dhotre, 407I082, BEIT).
 - Fixes already applied: Practical 2 duplicate `/255` removed; Practical 4 uses per-feature scaling and a 99th-percentile threshold from normal training data (recall about 0.84); Practical 6 loads CIFAR-10 and ImageNet weights through Keras instead of hardcoded local paths.
 - Practical 5 trains on a tiny hardcoded paragraph and plots only the first sample's loss per epoch.
 
 ## Information Storage and Retrieval (`ISR n.pdf`)
 
-`ISR OUTPUT PDF/ISR 1.pdf` to `ISR 8.pdf` are teacher-provided outputs relabeled for the user (BEIT, 407I033); `sam ise output pdf/` holds copies for Samruddhi Atul Bhandari (407I002). Extracted code is in `ISR code/` (assignments 5 and 6 are C++, the rest Python). Each has an "Assignment N / Code and Output" header followed by what appear to be screenshots. They have no extractable text, and there is no source code in the repo. They map to the manual's experiments:
+`ISR OUTPUT PDF/ISR 1.pdf` to `ISR 8.pdf` are teacher-provided outputs relabeled for the user (BEIT, 407I082); `sam ise output pdf/` holds copies for Samruddhi Atul Bhandari (407I002). Extracted code is in `ISR code/` (assignments 5 and 6 are C++, the rest Python). Each has an "Assignment N / Code and Output" header followed by what appear to be screenshots. They have no extractable text, and there is no source code in the repo. They map to the manual's experiments:
 
 1. Conflation algorithm for a document representative of a text file
 2. Single-pass clustering of 4 to 5 files
